@@ -29,3 +29,4 @@ print("d:", d)
 <img width="552" height="353" alt="img2" src="https://github.com/user-attachments/assets/05031e1e-f105-4d9e-9ed1-5af8ecae76af" />
 
 ## Result
+Thus,the python program that evaluates and prints the result of boolean and arithmetic expressions involving True and False is created successfully.
